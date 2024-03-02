@@ -1,0 +1,20 @@
+@media screen and (max-width: 768px) {
+    .cabecalho {
+        flex-direction: column;
+        
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .form__submit {
+        margin-bottom: 30px;
+    }
+    
+    .container__imagem img{
+        display: block;
+        width: 400px;
+        margin: 0 auto;
+    }
+}
