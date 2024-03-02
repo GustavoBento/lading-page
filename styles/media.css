@@ -8,6 +8,10 @@
         flex-direction: column;
     }
 
+    .container__texto-subtitulo {
+        font-size: 45px;
+    }
+
     .form__submit {
         margin-bottom: 30px;
     }
